@@ -45,8 +45,7 @@ This project focuses on building a machine learning model to predict diabetes ba
 ---
 
 ## Author
-**Oussama Tazi**  
-Software Engineer | Data Scientist  
-For any inquiries, feel free to reach out via GitHub or email.
+**Oussama Tazi** 
+**Houssam EL AZAMI EL IDRISSI**  
 
 ---
